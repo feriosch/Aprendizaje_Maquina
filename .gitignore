@@ -1,3 +1,6 @@
 venv/*
 .idea/*
 modulo2/examples/3scenes/*
+covid/
+normal/
+rating.csv
